@@ -1,0 +1,35 @@
+text {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  pointer-events: none;
+}
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+  width: 100%;
+  height: 100%;
+}
+#chart {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+#wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+#question h1 {
+  position: relative;
+  bottom: 100px;
+  color: #009a3b;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#question h1:empty {
+  background: lime;
+}
