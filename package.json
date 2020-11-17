@@ -2,6 +2,7 @@
   "name": "wheel-of-fortune",
   "version": "0.1.0",
   "main": "main.js",
+  "description": "A simple wheel of fortune",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
