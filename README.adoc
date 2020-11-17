@@ -1,0 +1,7 @@
+= Build
+
+[source,bash]
+----
+npm install
+npm run make
+----
