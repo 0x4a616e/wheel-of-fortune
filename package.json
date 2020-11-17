@@ -24,7 +24,8 @@
     "forge": {
       "packagerConfig": {
         "icon": "assets/icon.icns",
-        "name": "Wheel of Fortune"
+        "name": "Wheel of Fortune",
+	"executableName": "WheelOfFortune"
       },
       "makers": [
         {
